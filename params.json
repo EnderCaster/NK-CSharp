@@ -1,0 +1,6 @@
+{
+  "name": "Nk-csharp",
+  "tagline": "Netkeeper 2.5 hebei",
+  "body": "#Netkeeper Windows 客户端  \r\n——算法来自于[[Openwrt-NetKeeper]](https://github.com/miao1007/Openwrt-NetKeeper)\r\n拨号支持[[DotRas]](http://dotras.codeplex.com/)  \r\n##开发环境  \r\n系统：Windows 10  \r\n开发工具：Visual Studio  \r\n语言：C#  ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
